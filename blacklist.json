@@ -1,0 +1,11 @@
+{
+    "blacklistedProducts": [
+        "Sản phẩm A",
+        "Sản phẩm B",
+        "Sản phẩm C"
+    ],
+    "blacklistedCustomers": [
+        "Khách hàng 1",
+        "Khách hàng 2"
+    ]
+}
